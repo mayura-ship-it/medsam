@@ -13,7 +13,6 @@ dist/
 # Project specific
 logs/
 data/
-outputs/
 *.pth
 *.pt
 *.onnx
